@@ -1,0 +1,22 @@
+当前日期为: 2024-02-20, 时间: 19:47:01
+PGD攻击...
+第1次攻击, 模型 AlexNet, 数据集 CIFAR10
+模型参数所在位置
+../savemodel/CIFAR10_AlexNet_bz128_ep100_lr0.01_seedNone1.pth
+Epsilon: 0.01	Test Accuracy = 3197 / 2528 = 126.46
+Epsilon: 0.05	Test Accuracy = 1395 / 2528 = 55.18
+Epsilon: 0.1	Test Accuracy = 535 / 2528 = 21.16
+Epsilon: 0.15	Test Accuracy = 262 / 2528 = 10.36
+Epsilon: 0.2	Test Accuracy = 146 / 2528 = 5.78
+Epsilon: 0.25	Test Accuracy = 88 / 2528 = 3.48
+Epsilon: 0.3	Test Accuracy = 68 / 2528 = 2.69
+第2次攻击, 模型 AlexNet, 数据集 CIFAR10
+模型参数所在位置
+../savemodel/CIFAR10_AlexNet_bz128_ep100_lr0.01_seedNone2.pth
+Epsilon: 0.01	Test Accuracy = 2392 / 2528 = 94.62
+Epsilon: 0.05	Test Accuracy = 1485 / 2528 = 58.74
+Epsilon: 0.1	Test Accuracy = 751 / 2528 = 29.71
+Epsilon: 0.15	Test Accuracy = 407 / 2528 = 16.10
+Epsilon: 0.2	Test Accuracy = 236 / 2528 = 9.34
+Epsilon: 0.25	Test Accuracy = 167 / 2528 = 6.61
+Epsilon: 0.3	Test Accuracy = 114 / 2528 = 4.51

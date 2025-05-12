@@ -1,0 +1,35 @@
+当前日期为: 2024-02-20, 时间: 16:24:31
+FGSM攻击...
+第1次攻击, 模型 RgResNet, 数据集 KMNIST
+模型参数所在位置
+../savemodel/KMNIST_RgResNet_bz32_ep5_lr0.01_seedNone1.pth
+Epsilon: 0.01	Test Accuracy = 9398 / 10008 = 93.90
+Epsilon: 0.03137254901960784	Test Accuracy = 8845 / 10008 = 88.38
+Epsilon: 0.05	Test Accuracy = 8517 / 10008 = 85.10
+Epsilon: 0.1	Test Accuracy = 8002 / 10008 = 79.96
+Epsilon: 0.15	Test Accuracy = 7603 / 10008 = 75.97
+Epsilon: 0.2	Test Accuracy = 7311 / 10008 = 73.05
+Epsilon: 0.25	Test Accuracy = 7046 / 10008 = 70.40
+Epsilon: 0.3	Test Accuracy = 6707 / 10008 = 67.02
+第2次攻击, 模型 RgResNet, 数据集 KMNIST
+模型参数所在位置
+../savemodel/KMNIST_RgResNet_bz32_ep5_lr0.01_seedNone2.pth
+Epsilon: 0.01	Test Accuracy = 9375 / 10008 = 93.68
+Epsilon: 0.03137254901960784	Test Accuracy = 8721 / 10008 = 87.14
+Epsilon: 0.05	Test Accuracy = 8493 / 10008 = 84.86
+Epsilon: 0.1	Test Accuracy = 8008 / 10008 = 80.02
+Epsilon: 0.15	Test Accuracy = 7647 / 10008 = 76.41
+Epsilon: 0.2	Test Accuracy = 7361 / 10008 = 73.55
+Epsilon: 0.25	Test Accuracy = 6950 / 10008 = 69.44
+Epsilon: 0.3	Test Accuracy = 6497 / 10008 = 64.92
+第3次攻击, 模型 RgResNet, 数据集 KMNIST
+模型参数所在位置
+../savemodel/KMNIST_RgResNet_bz32_ep5_lr0.01_seedNone3.pth
+Epsilon: 0.01	Test Accuracy = 9449 / 10008 = 94.41
+Epsilon: 0.03137254901960784	Test Accuracy = 8892 / 10008 = 88.85
+Epsilon: 0.05	Test Accuracy = 8569 / 10008 = 85.62
+Epsilon: 0.1	Test Accuracy = 8107 / 10008 = 81.01
+Epsilon: 0.15	Test Accuracy = 7850 / 10008 = 78.44
+Epsilon: 0.2	Test Accuracy = 7530 / 10008 = 75.24
+Epsilon: 0.25	Test Accuracy = 7261 / 10008 = 72.55
+Epsilon: 0.3	Test Accuracy = 6973 / 10008 = 69.67

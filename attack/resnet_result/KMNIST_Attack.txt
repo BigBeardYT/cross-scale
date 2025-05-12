@@ -1,0 +1,27 @@
+当前日期为: 2024-02-20, 时间: 14:32:10
+FGSM攻击...
+第1次攻击, 模型 ResNet, 数据集 KMNIST
+模型参数所在位置
+../savemodel/KMNIST_ResNet_bz32_ep5_lr0.01_seedNone1.pth
+Epsilon: 0.01	Test Accuracy = 9455 / 10016 = 94.40
+Epsilon: 0.03137254901960784	Test Accuracy = 8828 / 10016 = 88.14
+Epsilon: 0.05	Test Accuracy = 8530 / 10016 = 85.16
+Epsilon: 0.1	Test Accuracy = 8149 / 10016 = 81.36
+Epsilon: 0.15	Test Accuracy = 7694 / 10016 = 76.82
+Epsilon: 0.2	Test Accuracy = 7365 / 10016 = 73.53
+Epsilon: 0.25	Test Accuracy = 6875 / 10016 = 68.64
+Epsilon: 0.3	Test Accuracy = 6576 / 10016 = 65.65
+第2次攻击, 模型 ResNet, 数据集 KMNIST
+模型参数所在位置
+../savemodel/KMNIST_ResNet_bz32_ep5_lr0.01_seedNone2.pth
+Epsilon: 0.01	Test Accuracy = 9441 / 10016 = 94.26
+Epsilon: 0.03137254901960784	Test Accuracy = 8840 / 10016 = 88.26
+Epsilon: 0.05	Test Accuracy = 8565 / 10016 = 85.51
+Epsilon: 0.1	Test Accuracy = 8126 / 10016 = 81.13
+Epsilon: 0.15	Test Accuracy = 7737 / 10016 = 77.25
+Epsilon: 0.2	Test Accuracy = 7387 / 10016 = 73.75
+Epsilon: 0.25	Test Accuracy = 7028 / 10016 = 70.17
+Epsilon: 0.3	Test Accuracy = 6724 / 10016 = 67.13
+第3次攻击, 模型 ResNet, 数据集 KMNIST
+
+

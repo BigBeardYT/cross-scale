@@ -1,0 +1,4 @@
+第1次预测, 模型: ResNet, 数据集: svhn
+模型参数所在位置: ../savemodel/svhn_ResNet_bz32_ep30_lr0.01_seedNone1.pth
+预测准确率为: 24087 / 26032 = 92.53
+

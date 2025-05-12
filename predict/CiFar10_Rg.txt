@@ -1,0 +1,22 @@
+RgNormResNet(第一个模型)
+第1次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_RgResNet_bz32_ep30_lr0.01_seedNone1.pth
+预测准确率为: 43284 / 50000 = 86.57, 86.27, 87.02, 86.98, 86.66
+第2次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_RgResNet_bz32_ep30_lr0.01_seedNone2.pth
+预测准确率为: 43136 / 50000 = 86.27
+第3次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_RgResNet_bz32_ep30_lr0.01_seedNone3.pth
+预测准确率为: 43508 / 50000 = 87.02
+第4次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_RgResNet_bz32_ep30_lr0.01_seedNone4.pth
+预测准确率为: 43488 / 50000 = 86.98
+第5次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_RgResNet_bz32_ep30_lr0.01_seedNone5.pth
+预测准确率为: 43331 / 50000 = 86.66
+
+进程已结束,退出代码0
+
+第1次预测, 模型: RgResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_RgResNet_bz64_ep60_lr0.001_seedNone1.pth
+预测准确率为: 46373 / 50000 = 92.75

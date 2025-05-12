@@ -1,0 +1,11 @@
+第2次预测, 模型: FSRResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_FSRResNet_bz128_ep100_lr0.01_seedNone2.pth
+预测准确率为: 9265 / 10000 = 92.65
+第3次预测, 模型: FSRResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_FSRResNet_bz128_ep100_lr0.01_seedNone3.pth
+预测准确率为: 9293 / 10000 = 92.93
+第4次预测, 模型: FSRResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_FSRResNet_bz128_ep100_lr0.01_seedNone4.pth
+预测准确率为: 9029 / 10000 = 90.29
+
+进程已结束,退出代码0

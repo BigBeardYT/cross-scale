@@ -1,0 +1,15 @@
+第1次预测, 模型: ResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_ResNet_bz32_ep30_lr0.01_seedNone1.pth
+预测准确率为: 42940 / 50000 = 85.88, 86.83, 86.47, 86.82, 86.21
+第2次预测, 模型: ResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_ResNet_bz32_ep30_lr0.01_seedNone2.pth
+预测准确率为: 43413 / 50000 = 86.83
+第3次预测, 模型: ResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_ResNet_bz32_ep30_lr0.01_seedNone3.pth
+预测准确率为: 43236 / 50000 = 86.47
+第4次预测, 模型: ResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_ResNet_bz32_ep30_lr0.01_seedNone4.pth
+预测准确率为: 43412 / 50000 = 86.82
+第5次预测, 模型: ResNet, 数据集: CiFar10
+模型参数所在位置: ../savemodel/CiFar10_ResNet_bz32_ep30_lr0.01_seedNone5.pth
+预测准确率为: 43103 / 50000 = 86.21

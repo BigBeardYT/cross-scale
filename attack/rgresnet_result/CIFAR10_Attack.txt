@@ -1,0 +1,46 @@
+当前日期为: 2024-02-20, 时间: 19:47:19
+FGSM攻击...
+第1次攻击, 模型 RgAlexNet, 数据集 CIFAR10
+模型参数所在位置
+../savemodel/CIFAR10_RgAlexNet_bz128_ep100_lr0.01_seedNone1.pth
+Epsilon: 0.01	Test Accuracy = 5005 / 2528 = 197.98
+Epsilon: 0.05	Test Accuracy = 4069 / 2528 = 160.96
+Epsilon: 0.1	Test Accuracy = 3109 / 2528 = 122.98
+Epsilon: 0.15	Test Accuracy = 2407 / 2528 = 95.21
+Epsilon: 0.2	Test Accuracy = 1875 / 2528 = 74.17
+Epsilon: 0.25	Test Accuracy = 1592 / 2528 = 62.97
+Epsilon: 0.3	Test Accuracy = 1371 / 2528 = 54.23
+第2次攻击, 模型 RgAlexNet, 数据集 CIFAR10
+模型参数所在位置
+../savemodel/CIFAR10_RgAlexNet_bz128_ep100_lr0.01_seedNone2.pth
+Epsilon: 0.01	Test Accuracy = 5248 / 2528 = 207.59
+Epsilon: 0.05	Test Accuracy = 4251 / 2528 = 168.16
+Epsilon: 0.1	Test Accuracy = 3272 / 2528 = 129.43
+Epsilon: 0.15	Test Accuracy = 2499 / 2528 = 98.85
+Epsilon: 0.2	Test Accuracy = 1965 / 2528 = 77.73
+Epsilon: 0.25	Test Accuracy = 1605 / 2528 = 63.49
+Epsilon: 0.3	Test Accuracy = 1357 / 2528 = 53.68
+
+
+当前日期为: 2024-02-26, 时间: 16:06:35
+BIM攻击...
+第1次攻击, 模型 RgResNet, 数据集 CIFAR10
+模型参数所在位置
+../savemodel/CIFAR10_RgResNet_bz32_ep30_lr0.01_seedNone1.pth
+Epsilon: 0.01	Test Accuracy = 5067 / 10048 = 50.43
+Epsilon: 0.05	Test Accuracy = 2434 / 10048 = 24.22
+Epsilon: 0.1	Test Accuracy = 1260 / 10048 = 12.54
+Epsilon: 0.15	Test Accuracy = 705 / 10048 = 7.02
+Epsilon: 0.2	Test Accuracy = 456 / 10048 = 4.54
+Epsilon: 0.25	Test Accuracy = 325 / 10048 = 3.23
+Epsilon: 0.3	Test Accuracy = 259 / 10048 = 2.58
+第2次攻击, 模型 RgResNet, 数据集 CIFAR10
+模型参数所在位置
+../savemodel/CIFAR10_RgResNet_bz32_ep30_lr0.01_seedNone2.pth
+Epsilon: 0.01	Test Accuracy = 5104 / 10048 = 50.80
+Epsilon: 0.05	Test Accuracy = 2452 / 10048 = 24.40
+Epsilon: 0.1	Test Accuracy = 1152 / 10048 = 11.46
+Epsilon: 0.15	Test Accuracy = 592 / 10048 = 5.89
+Epsilon: 0.2	Test Accuracy = 374 / 10048 = 3.72
+Epsilon: 0.25	Test Accuracy = 251 / 10048 = 2.50
+Epsilon: 0.3	Test Accuracy = 197 / 10048 = 1.96
